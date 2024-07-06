@@ -1,9 +1,10 @@
 <!--
-**your-github-username/your-github-username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cyrus Kimutai is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=2500&pause=500&center=true&vCenter=true&width=435&lines=Hello,+I'm+Cyrus+Kimuai!;Welcome+to+my+GitHub+Profile!;Full-Stack+Web+Developer;IT+Student+at+Kirinyaga+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=2500&pause=500&center=true&vCenter=true&width=435&lines= 
+ Hello, +I'm +Cyrus +Kimutai! ;Welcome +to +my+GitHub+Profile!;Full-Stack+Web+Developer;IT+Student+at+Kirinyaga+University" alt="Typing SVG" />
 </p>
 
 ### Hi there 👋
@@ -45,7 +46,7 @@ I'm Cyrus Kimuai, a third-year student at Kirinyaga University studying Informat
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&langs_count=10" alt="Top Languages">
 </p>
 
 <p align="center">
