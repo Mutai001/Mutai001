@@ -1,15 +1,10 @@
-<!--
-Cyrus Kimutai is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=2500&pause=500&center=true&vCenter=true&width=435&lines= 
- Hello, +I'm +Cyrus +Kimutai! ;Welcome +to +my+GitHub+Profile!;Full-Stack+Web+Developer;IT+Student+at+Kirinyaga+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=2500&pause=500&center=true&vCenter=true&width=435&lines=Hello,+I'm+Cyrus+Kimutai!;Welcome+to+my+GitHub+Profile!;Full-Stack+Web+Developer;IT+Student+at+Kirinyaga+University" alt="Typing SVG" />
 </p>
 
 ### Hi there 👋
 
-I'm Cyrus Kimuai, a third-year student at Kirinyaga University studying Information Technology, expected to graduate in 2025. Currently, I'm passionate about full-stack web development and proficient in multiple programming languages.
+I'm Cyrus Kimutai, a third-year student at Kirinyaga University studying Information Technology, expected to graduate in 2025. Currently, I'm passionate about full-stack web development and proficient in multiple programming languages.
 
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,19 +24,11 @@ I'm Cyrus Kimuai, a third-year student at Kirinyaga University studying Informat
 
 🌱 I’m currently learning advanced concepts in full-stack web development, including front-end frameworks like React and back-end technologies like Node.js and Express.
 
-👯 I’m looking to collaborate on open-source projects and innovative web development initiatives where I can contribute my skills and learn from others in the community.
-
-💬 Ask me about web development, programming languages like HTML, CSS, JavaScript, and frameworks like Bootstrap and React.
-
 📫 You can reach me via:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254707071440?text=Hello%2C%20Cyrus%20are%20you%20available%20for%20a%20talk%20now%3F)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyrus-omusee-b38382258/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089002852823)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AlltecMuta32069)
-
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I speak many languages, but the ones I never joke with are the ones written in code! Nothing beats the thrill of debugging and crafting elegant solutions. When I'm not coding, you might find me exploring the world of photography, capturing moments in nature.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub stats" />
