@@ -1,3 +1,11 @@
+<!--
+**your-github-username/your-github-username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=2500&pause=500&center=true&vCenter=true&width=435&lines=Hello,+I'm+Cyrus+Kimuai!;Welcome+to+my+GitHub+Profile!;Full-Stack+Web+Developer;IT+Student+at+Kirinyaga+University" alt="Typing SVG" />
+</p>
+
 ### Hi there 👋
 
 I'm Cyrus Kimuai, a third-year student at Kirinyaga University studying Information Technology, expected to graduate in 2025. Currently, I'm passionate about full-stack web development and proficient in multiple programming languages.
@@ -34,9 +42,12 @@ I'm Cyrus Kimuai, a third-year student at Kirinyaga University studying Informat
 
 ⚡ Fun fact: I speak many languages, but the ones I never joke with are the ones written in code! Nothing beats the thrill of debugging and crafting elegant solutions. When I'm not coding, you might find me exploring the world of photography, capturing moments in nature.
 
-![Cyrus's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical&date_format=j%20M%5B%20Y%5D)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
-<img src="https://github.com/your-github-username/your-github-username/blob/main/header.svg" alt="header" style="width: 100%; height: auto;">
-<img src="https://github.com/your-github-username/your-github-username/blob/main/footer.svg" alt="footer" style="width: 100%; height: auto;">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
