@@ -23,6 +23,7 @@ I'm Cyrus Kimutai, a third-year student at Kirinyaga University studying Informa
 🔭 I’m currently working on honing my skills in web development and building personal projects to expand my portfolio.
 
 🌱 I’m currently learning advanced concepts in full-stack web development, including front-end frameworks like React and back-end technologies like Node.js and Express.
+[![](https://visitcount.itsvg.in/api?id=Mutai001&label=1009&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 📫 You can reach me via:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254707071440?text=Hello%2C%20Cyrus%20are%20you%20available%20for%20a%20talk%20now%3F)
