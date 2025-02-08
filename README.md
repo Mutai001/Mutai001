@@ -1,17 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=2500&pause=500&center=true&vCenter=true&width=435&lines=Hello,+I'm+Cyrus+Kimutai!;Welcome+to+my+GitHub+Profile!;Full-Stack+Web+Developer;Passionate+Software+Developer" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  Total Views: <br/>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Mutai001&label=1009&color=1&icon=0&pretty=false" alt="Visit Count" />
-  </a>
-</p>
-
 ### Hi there 👋
 
-I’m Cyrus Kimutai, a software developer passionate about full-stack web development. I have extensive experience with various programming languages and technologies, which allows me to create impactful and innovative solutions. I am dedicated to leveraging my skills to contribute effectively to dynamic projects and teams.
+I’m Cyrus, a software developer passionate about web development. I have extensive experience with various programming languages and technologies, which allows me to create impactful and innovative solutions. I am dedicated to leveraging my skills to contribute effectively to dynamic projects and teams.
 
 🔭 I’m currently working on honing my skills in web development and building personal projects to expand my portfolio.
 
