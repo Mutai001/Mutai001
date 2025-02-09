@@ -10,7 +10,6 @@ I’m **Cyrus**, a software developer passionate about web development. I have e
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mutai001&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Mutai001's Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mutai001&theme=tokyonight&hide_border=true" alt="Mutai001's Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mutai001&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 ## 🔥 Recent Activity
