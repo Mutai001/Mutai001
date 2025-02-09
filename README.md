@@ -13,6 +13,13 @@ I’m **Cyrus**, a software developer passionate about web development. I have e
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mutai001&theme=tokyonight" alt="Profile Summary" />
 </p>
 
+## 🔥 Recent Activity
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mutai001&theme=tokyonight" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mutai001&theme=tokyonight" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mutai001&theme=tokyonight" alt="Most Used Language"/>
+</p>
+
 ## 📬 Connect with Me
 <p align="center">
   <a href="https://wa.me/254707071440?text=Hello%2C%20Cyrus%20are%20you%20available%20for%20a%20talk%20now%3F"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
