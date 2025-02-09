@@ -2,10 +2,6 @@
 
 I’m **Cyrus**, a software developer passionate about web development. I have extensive experience with various programming languages and technologies, allowing me to create impactful and innovative solutions. I am dedicated to leveraging my skills to contribute effectively to dynamic projects and teams.
 
-## 🚀 About Me
-- 🔭 I’m currently honing my skills in **web development** and building personal projects to expand my portfolio.
-- 🌱 I’m learning **advanced full-stack development**, including front-end frameworks like **React** and back-end technologies like **Node.js** and **Express**.
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mutai001&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Mutai001's Stats" />
