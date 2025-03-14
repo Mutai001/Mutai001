@@ -22,6 +22,7 @@ I’m **Cyrus**, a software developer passionate about web development. I have e
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 ![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer--Motion-EA4C89?style=for-the-badge&logo=framer&logoColor=white)  
+******
 
 ### **Backend & APIs**
  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -53,6 +54,7 @@ I’m **Cyrus**, a software developer passionate about web development. I have e
  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
+******
 
 
 ## 📊 GitHub Stats
