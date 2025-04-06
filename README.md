@@ -5,7 +5,7 @@
 <h1 align="center">👋 Welcome! I'm <span style="color:#00BFFF">Cyrus Kimutai</span></h1>
 
 <h3 align="center">
-🚀 <a href="https://cyrus-kimutai-cqicerm8i-mutai001s-projects.vercel.app/">💼 Check Out My Portfolio</a> 🚀
+🚀 <a href="https://cyrus-kimutai.vercel.app/">💼 Check Out My Portfolio</a> 🚀
 </h3>
 
 
