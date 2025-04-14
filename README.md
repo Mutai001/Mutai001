@@ -75,11 +75,11 @@ class CyrusKimutai {
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpnZ2I5NzZ3dGgxdXhoYTl2MXBmNTZ3M2JlY25odjRtOTdzcGs5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QWvra259h4LCvXJUk2/giphy.gif" width="35"> Showcase Projects
 
 
-<div align="center">
-  <p><a href="https://mindful-v2.vercel.app/"><b>Mindful</b></a> - AI-powered mental health support platform offering personalized guidance and resources</p>
-  <p><a href="https://react-assessment-xs2x.vercel.app/"><b>Taskfy</b></a> - Intuitive todo list application with productivity analytics and smart categorization</p>
-  <p><a href="https://weather-notification-app.vercel.app/"><b>Weatherly</b></a> - Real-time weather forecasting with customizable alerts and interactive visualizations</p>
-  <p><a href="https://vehicle-client.vercel.app/"><b>SwiftRide</b></a> - Modern car rental platform featuring seamless booking and comprehensive vehicle management</p>
+<div align="left">
+        <p><a href="https://mindful-v2.vercel.app/"><b>Mindful</b></a> - AI-powered mental health support platform offering personalized guidance and resources</p>
+        <p><a href="https://react-assessment-xs2x.vercel.app/"><b>Taskfy</b></a> - Intuitive todo list application with productivity analytics and smart categorization</p>
+        <p><a href="https://weather-notification-app.vercel.app/"><b>Weatherly</b></a> - Real-time weather forecasting with customizable alerts and interactive visualizations</p>
+        <p><a href="https://vehicle-client.vercel.app/"><b>SwiftRide</b></a> - Modern car rental platform featuring seamless booking and comprehensive vehicle management</p>
 </div>
 
 ---
