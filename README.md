@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=gradient&customColorList=0,2,3,5,30&height=200&section=header&text=Cyrus%20Kimutai&desc=Crafting%20Digital%20Experiences&fontSize=50&fontColor=ffffff&fontAlignY=40&descAlignY=60&descSize=20" />
 </p>
 
-<div align="center">
+<div align="left">
   <a href="https://cyrus-kimutai.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-00B1E9?style=for-the-badge&logo=Safari&logoColor=white&labelColor=080808" alt="Portfolio" />
   </a>
@@ -15,11 +15,11 @@
   <a href="https://x.com/cyrus_Kim001">
     <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=x&logoColor=white&labelColor=080808" alt="Twitter" />
   </a>
+    <img src="https://komarev.com/ghpvc/?username=Mutai001&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mutai001&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+
 
 <br>
 
@@ -74,29 +74,12 @@ class CyrusKimutai {
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpnZ2I5NzZ3dGgxdXhoYTl2MXBmNTZ3M2JlY25odjRtOTdzcGs5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QWvra259h4LCvXJUk2/giphy.gif" width="35"> Showcase Projects
 
-<div align="center">
-  <a href="https://mindful-v2.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mutai001&repo=mindful&title_color=00DDFF&text_color=FFFFFF&icon_color=FF00AA&bg_color=0D1117&border_color=0D1117" width="49%" alt="Mindful" />
-  </a>
-  <a href="https://react-assessment-xs2x.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mutai001&repo=taskfy&title_color=00DDFF&text_color=FFFFFF&icon_color=FF00AA&bg_color=0D1117&border_color=0D1117" width="49%" alt="Taskfy" />
-  </a>
-</div>
 
 <div align="center">
-  <a href="https://weather-notification-app.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mutai001&repo=weatherly&title_color=00DDFF&text_color=FFFFFF&icon_color=FF00AA&bg_color=0D1117&border_color=0D1117" width="49%" alt="Weatherly" />
-  </a>
-  <a href="https://vehicle-client.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mutai001&repo=swiftride&title_color=00DDFF&text_color=FFFFFF&icon_color=FF00AA&bg_color=0D1117&border_color=0D1117" width="49%" alt="SwiftRide" />
-  </a>
-</div>
-
-<div align="center">
-  <p><b>Mindful</b> - AI-powered mental health support platform offering personalized guidance and resources</p>
-  <p><b>Taskfy</b> - Intuitive todo list application with productivity analytics and smart categorization</p>
-  <p><b>Weatherly</b> - Real-time weather forecasting with customizable alerts and interactive visualizations</p>
-  <p><b>SwiftRide</b> - Modern car rental platform featuring seamless booking and comprehensive vehicle management</p>
+  <p><a href="https://mindful-v2.vercel.app/"><b>Mindful</b></a> - AI-powered mental health support platform offering personalized guidance and resources</p>
+  <p><a href="https://react-assessment-xs2x.vercel.app/"><b>Taskfy</b></a> - Intuitive todo list application with productivity analytics and smart categorization</p>
+  <p><a href="https://weather-notification-app.vercel.app/"><b>Weatherly</b></a> - Real-time weather forecasting with customizable alerts and interactive visualizations</p>
+  <p><a href="https://vehicle-client.vercel.app/"><b>SwiftRide</b></a> - Modern car rental platform featuring seamless booking and comprehensive vehicle management</p>
 </div>
 
 ---
@@ -123,38 +106,38 @@ class CyrusKimutai {
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3YxbTlvZWxtM2Y3YXE2dDNwdDZlOGZueXNoYzh4MzJyYnhkemp2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QTmfitsmJRWPht4ZFK/giphy.gif" width="30"> Frontend Ecosystem
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vue" alt="Frontend Skills" height="60" />
-  <br>
+<!--   <br> -->
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" height="60" />
   <img src="https://skillicons.dev/icons?i=materialui" alt="MaterialUI" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60" width="60" alt="SCSS" />
-  <img src="https://raw.githubusercontent.com/saadeghi/daisyui/master/src/docs/static/images/daisyui-logo/favicon-192.png" height="60" alt="DaisyUI" />
+  <img src="https://cdn.jsdelivr.net/npm/@mdi/svg@7.0.96/svg/material-design.svg" height="60" alt="DaisyUI" />
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="60" alt="ShadcnUI" />
-  <img src="https://www.framer.com/images/favicons/favicon-32x32.png" height="60" alt="Framer Motion" />
+  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" height="60" alt="Framer Motion" />
 </div>
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemh3azAyNXl0MGs2eXJrZHVybGFoMHlzYnloMGYycmk0NXB0MmVrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VTMzfJhfaQAVsf7KAs/giphy.gif" width="30"> Backend Technologies
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,flask" alt="Backend Skills" height="60" />
-  <br>
+<!--   <br> -->
   <img src="https://hono.dev/favicon.ico" height="60" alt="Hono" />
   <img src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" height="60" alt="Drizzle ORM" />
 </div>
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZnMjBvYnlqcnQwNDl3OXNsN3Rxb2dxZDlvdXM5Y3k3bHNueDQ0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJWXxAr2Za6EtN7Kkm/giphy.gif" width="30"> Database Solutions
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite" alt="Database Skills" height="60" />
 </div>
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnUwcGc2ZWkzZG0ycTMwYXJvbDduNHB0MHl0cXZ1ZnQyczR2cW52YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Yc5FmF2bZj8YERQiZn/giphy.gif" width="30"> DevOps & Deployment
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=vercel,netlify,aws,azure,gcp,docker,kubernetes,cloudflare" alt="DevOps Skills" height="60" />
-  <br>
-  <img src="https://dashboard.render.com/favicon.ico" height="60" alt="Render" />
+<!--   <br> -->
+<!--   <img src="https://cdn.worldvectorlogo.com/logos/render-logo.svg" height="60" alt="Render" /> -->
   <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" height="60" alt="GitHub Actions" />
 </div>
 
